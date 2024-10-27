@@ -20,13 +20,13 @@ Command Line Interface: Run Git commands in a terminal-like environment.
 Bash Commands: Use common shell commands for file manipulation and navigation.
 Cross-Platform: Similar to other command line tools like Terminal on macOS and Linux.
 
-## Useful Commands
-- git clone [url]: Clone an existing repository.
-- git status: Check the status of your working directory.
-- git pull: Fetch and merge changes from the remote repository.
-- git push: Push your commits to the remote repository.
-- git branch: List all branches or create a new branch.
-- git checkout [branch-name]: Switch to a different branch.
+## Usefull commands
+- *git clone [url]:* Clone an existing repository.
+- *git status:* Check the status of your working directory.
+- *git pull:* Fetch and merge changes from the remote repository.
+- *git push:* Push your commits to the remote repository.
+- *git branch:* List all branches or create a new branch.
+- *git checkout [branch-name]:* Switch to a different branch.
 
 ![image](https://github.com/user-attachments/assets/ef57949e-dbf4-41fa-a9fb-dc4b19d42637)
 
